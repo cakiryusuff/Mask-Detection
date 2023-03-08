@@ -24,6 +24,7 @@
     <ProjectGuid>{515b4b2e-faf5-4071-a38a-05529b5193f8}</ProjectGuid>
     <RootNamespace>GitProject</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Mask-Detect-cpp</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
