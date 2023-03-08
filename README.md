@@ -4,7 +4,7 @@
 <div align="center">
 <p>
 <img src="GitProject/masked.PNG"/>
-<img src="GitProject/yazi1.PNG"/>
+<img src="yazi1.PNG"/>
 </p>
 <br>
 </div>
